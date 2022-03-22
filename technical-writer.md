@@ -16,3 +16,4 @@ across the Bakery technology stack.
 - Partner with developer advocates across Product Creation, Online Engineer, UX, etc. to guide Engineers to collect technical requirements and standard methodologies. 
 - Propose appropriate tools and strategies for technical documentation as well as improve the documentation process for simplicity, consistency and speed. 
 - Act as Developer Community Manager/Editor for developer knowledge management services like Stack Overflow 
+- Keeps the documentation uptodate with the current release of the service
